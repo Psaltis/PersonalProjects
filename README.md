@@ -1,2 +1,3 @@
-# ESP32-Projects
-This is where i will upload my projects using the ESP32 SoC.
+# PersonalProjets
+
+ESP32, STM32 stuff or scripts
